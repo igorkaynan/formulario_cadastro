@@ -45,7 +45,7 @@ Aqui está uma imagem de como o formulario de cadastro com login se parece:
 > **Nota:** Certifique-se de que todos os arquivos (HTML, CSS, JS, PHP e imagens) estejam na mesma pasta para garantir o funcionamento correto do projeto.
 
 ## Créditos
-Este projeto foi inspirado por um tutorial e exemplos online sobre formulários de cadastro. Todo o código foi escrito manualmente para garantir o aprendizado e a prática durante o desenvolvimento.
+Este projeto foi inspirado no tutorial do canal Gustavo Neitzke, que pode ser encontrado aqui (https://www.youtube.com/@GustavoNeitzke). Embora tenha sido baseado no tutorial, todo o código foi escrito manualmente por mim, para garantir melhor aprendizado e prática.
 
 ## Licença
 
