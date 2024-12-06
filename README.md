@@ -38,7 +38,7 @@ Este projeto de formulário de cadastro desenvolvido em **HTML**, **CSS**, **PHP
 
 ## Exemplo Visual
 
-Aqui está uma imagem de como o carrossel se parece:
+Aqui está uma imagem de como o formulario de cadastro com login se parece:
 
 ![Formulário de Cadastro]![formulario](https://github.com/user-attachments/assets/b6f5c593-287a-4bee-bf02-5dac886e7929)
 
