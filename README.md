@@ -40,7 +40,7 @@ Este projeto de formulário de cadastro desenvolvido em **HTML**, **CSS**, **PHP
 
 Aqui está uma imagem de como o carrossel se parece:
 
-![Formulário de Cadastro]
+![Formulário de Cadastro]![formulario](https://github.com/user-attachments/assets/b6f5c593-287a-4bee-bf02-5dac886e7929)
 
 > **Nota:** Certifique-se de que todos os arquivos (HTML, CSS, JS, PHP e imagens) estejam na mesma pasta para garantir o funcionamento correto do projeto.
 
